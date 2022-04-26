@@ -1,0 +1,3 @@
+[submodule "UnrealEngine.Gvas"]
+	path = UnrealEngine.Gvas
+	url = https://github.com/SparkyTD/UnrealEngine.Gvas
