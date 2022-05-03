@@ -1,3 +1,6 @@
 [submodule "UnrealEngine.Gvas"]
 	path = UnrealEngine.Gvas
 	url = https://github.com/SparkyTD/UnrealEngine.Gvas
+[submodule "gvas-converter"]
+	path = gvas-converter
+	url = https://github.com/13xforever/gvas-converter

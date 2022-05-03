@@ -1,6 +1,7 @@
 using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
+using BeardBunglersBypass.Core;
 using BeardBunglersBypass.ViewModels;
 using BeardBunglersBypass.Views;
 
@@ -10,6 +11,7 @@ namespace BeardBunglersBypass
     {
         public override void Initialize()
         {
+            new Class1();
             AvaloniaXamlLoader.Load(this);
         }
 
